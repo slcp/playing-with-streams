@@ -1,0 +1,10 @@
+{
+  "name": "streaming-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Stuart Forrest <stuart.forrest@infinityworks.com>",
+  "license": "MIT",
+  "dependencies": {
+    "stream-json": "^1.8.0"
+  }
+}
